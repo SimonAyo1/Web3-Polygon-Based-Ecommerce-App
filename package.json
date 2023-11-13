@@ -1,8 +1,9 @@
 {
-  "name": "fyp",
+  "name": "Web3 Based Ecommerce App",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": "Simon Ayo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
